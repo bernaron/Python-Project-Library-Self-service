@@ -113,12 +113,6 @@ User user_5 registered successfully!
 Updated user database: {'user_1': 'Password_1', 'user_2': 'Password_2', 'user_3': 'Password_3', 'user_4': 'Password_4', 'user_5': 'Password_5'}
 
 
-###Contributing
-If you would like to contribute to the project, please fork the repository, make your changes, and submit a pull request.
-
-####License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 ### Explanation of Sections:
 - **Features**: Describes what the system allows users to do.
